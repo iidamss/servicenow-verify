@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="index_test" label="Index Test" language="en" table="x_803300_custom_0_custom_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>index_test</element>
+            <help/>
+            <hint/>
+            <label>Index Test</label>
+            <language>en</language>
+            <name>x_803300_custom_0_custom_table</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-18 04:41:35</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Index Test</sys_name>
+            <sys_package display_value="Custom App" source="x_803300_custom_0">00f2186083852210b7e2c590ceaad389</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Custom App">00f2186083852210b7e2c590ceaad389</sys_scope>
+            <sys_update_name>sys_documentation_x_803300_custom_0_custom_table_index_test_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-18 04:41:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

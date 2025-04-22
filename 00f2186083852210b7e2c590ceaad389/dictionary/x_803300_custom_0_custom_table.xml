@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d0b4102483852210b7e2c590ceaad319" label="Custom Table" max_length="40" name="x_803300_custom_0_custom_table" type="collection">
+        <element label="Index Test" max_length="255" name="index_test" type="string"/>
+    </element>
+</database>

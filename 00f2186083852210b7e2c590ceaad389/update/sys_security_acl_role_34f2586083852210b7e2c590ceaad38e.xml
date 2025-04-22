@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-18 04:32:32</sys_created_on>
+        <sys_id>34f2586083852210b7e2c590ceaad38e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_803300_custom_0_request.x_803300_custom_0.agent</sys_name>
+        <sys_package display_value="Custom App" source="x_803300_custom_0">00f2186083852210b7e2c590ceaad389</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom App">00f2186083852210b7e2c590ceaad389</sys_scope>
+        <sys_security_acl display_value="x_803300_custom_0_request">74f2586083852210b7e2c590ceaad38b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_34f2586083852210b7e2c590ceaad38e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-18 04:32:32</sys_updated_on>
+        <sys_user_role display_value="x_803300_custom_0.agent" name="x_803300_custom_0.agent">74f2586083852210b7e2c590ceaad376</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
