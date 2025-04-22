@@ -14,6 +14,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>condition_test</element>
+            <position>2</position>
+            <sys_created_by>masashi.iida</sys_created_by>
+            <sys_created_on>2025-04-22 10:39:41</sys_created_on>
+            <sys_id>395d82b18341e610b7e2c590ceaad3b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_803300_custom_0_custom_table" sys_domain="global" view="Default view">ecb414e083852210b7e2c590ceaad360</sys_ui_section>
+            <sys_updated_by>masashi.iida</sys_updated_by>
+            <sys_updated_on>2025-04-22 10:39:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
