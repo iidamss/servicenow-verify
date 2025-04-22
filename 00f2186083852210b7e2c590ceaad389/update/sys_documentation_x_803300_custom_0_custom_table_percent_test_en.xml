@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="percent_test" label="Percent  Test" language="en" table="x_803300_custom_0_custom_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>percent_test</element>
+            <help/>
+            <hint/>
+            <label>Percent  Test</label>
+            <language>en</language>
+            <name>x_803300_custom_0_custom_table</name>
+            <plural>Percent  Tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-22 09:02:11</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Percent  Test</sys_name>
+            <sys_package display_value="Custom App" source="x_803300_custom_0">00f2186083852210b7e2c590ceaad389</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Custom App">00f2186083852210b7e2c590ceaad389</sys_scope>
+            <sys_update_name>sys_documentation_x_803300_custom_0_custom_table_percent_test_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-22 09:02:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
